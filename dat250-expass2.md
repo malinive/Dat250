@@ -12,8 +12,12 @@ This is a lab report for lab assignment 2 in DAT250. In the report I am going to
 
 
 ## Technical problems with JPA
+Installing the Derby Database was a problem. Mostly because I understood it as optional to use for the inspection of the database tables. When I found no other way than to install it, it went fine. Using the Maven project as a starting point was very helpfull.
+
+When filling in the entity classes I had a lot of problems with the assosiactions, but when I found good information on the internet. I had some problems with an entity relationship that was a Collection in the project, but actually was a Set. This change made my MainTest successfull.
 
 ## A link to the code for experiment 2
+https://github.com/malinive/dat250-jpa-example-master
 
 ## Inspection of database tables 
 I had a lot of problems with showing the database tables. The first problem was that I used the wrong version of Intellij. It was not possible to show these types of diagrams in the version I had downloaded. I feel that this could have been communicated to us when we were told to download an IDE. 
@@ -27,4 +31,5 @@ Screenshots:
 ![image](https://user-images.githubusercontent.com/42604421/190159383-d82ab8a6-6378-44ff-88a0-2d32840ce736.png)
 
 
-## Any pending issues 
+## Any pending issues
+None that I'm aware of.
