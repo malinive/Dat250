@@ -16,6 +16,8 @@
 ## 2. Screenshots 
 
 **Correct validation of the installation package:**
+![image](https://user-images.githubusercontent.com/42604421/190860652-5e70edc4-75d2-49ac-83b7-767dcce57660.png)
+
 
 **Relevant results obtained during experiment 1:**
 
