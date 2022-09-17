@@ -21,7 +21,18 @@
 
 **Relevant results obtained during experiment 1:**
 
+**Insert**
+
+![image](https://user-images.githubusercontent.com/42604421/190863756-6615defb-3839-4240-be16-28a3bf5ce506.png)
+
+**Query**
+
+![image](https://user-images.githubusercontent.com/42604421/190863864-20974b29-a640-4d7a-9ef6-86f55e9c3152.png)
+
+
+
 **Experiment 2 and the additional Map-reduce operation:**
+
 
 ## 3. 
 
