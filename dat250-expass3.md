@@ -49,8 +49,18 @@ I spent some time figuring out how to insert a document into MongoDB compass, bu
 
 ### Experiment 2 and the additional Map-reduce operation
 
+**From tutorial:**
 
-## 3. 
+![image](https://user-images.githubusercontent.com/42604421/190924369-e3354852-93f5-42e6-aca3-9ffad4535a57.png)
+
+**My Map-reduce operation:**
+
+![image](https://user-images.githubusercontent.com/42604421/190925485-166ede38-13f8-4514-b194-2df8eed6eded.png)
+
+
+
+## 3. Experiment 2
+My Map-reduce operation sums the quantity of items for each customer. I could probably have written the same mapFunction as in the tutorial (but replaced this.price with this.qty), but doing it this way shows all the possibilities of filtering on the what we want returned. 
 
 ## 4. Any pending issues 
 Some potential problems described in section 1. 
