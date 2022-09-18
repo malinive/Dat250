@@ -12,7 +12,7 @@
 
 
 ## 1. Technical problems with MongoDB
-I forgot to check the option of "MongoDB as a Windows service" and therefore chose to reinstall it. I don't know if I have installed MongoDB correct because I got a bit confused about mongosh. In the assignment spesifications I interpreted Mongo shell as optional to install, but in the official MongoDB install spesifications I seemed to be important to install (I think mongosh and Mongo shell is the same thing?). I downloaded mongosh, but had problems with adding it as an environment variable. MongoDB has worked for this assignemt, but maybe this will create problems later on. 
+I forgot to check the option of "MongoDB as a Windows service" and therefore chose to reinstall it. I don't know if I have installed MongoDB correct because I got a bit confused about mongosh. In the assignment spesifications I interpreted Mongo shell as optional to install, but in the official MongoDB install spesifications it seemed to be important to install (I think mongosh and Mongo shell is the same thing?). I downloaded mongosh, but had problems with adding it as an environment variable. MongoDB has worked for this assignemt, but maybe this will create problems later on. 
 
 I spent some time figuring out how to insert a document into MongoDB compass, but when googling it I found the solution. 
 
