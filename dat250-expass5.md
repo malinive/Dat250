@@ -12,7 +12,7 @@ This repport will include:
 Some problems with the JAVA_HOME not being as an environemt variable, but the problem was resolved. 
 
 ## A link to the code
-Link to experiment 1:
+Link to experiment 1: https://github.com/malinive/demo
 
 Link to experiment 2: https://github.com/malinive/spring-boot
 
