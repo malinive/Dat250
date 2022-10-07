@@ -11,7 +11,7 @@ This repport will include:
 ## Technical problems during the tutorial
 
 ## A link to the code
-Link to experiment 1: https://github.com/malinive/demo
+Link to experiment 1:
 
 
 ## Any pending issues
