@@ -16,9 +16,12 @@ This report will include:
 
 ## Link to code
 Experiment 1: https://github.com/malinive/serving-web-content 
+
 Experiment 2:
-  -Code for assignment 6: https://github.com/malinive/angular-expass6
-  -Code for assignment 4: https://github.com/malinive/dat250-sparkjava-counter 
+
+* Code for assignment 6: https://github.com/malinive/angular-expass6
+  
+* Code for assignment 4: https://github.com/malinive/dat250-sparkjava-counter 
 
 ## Any pending issues
 None. 
